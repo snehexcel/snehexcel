@@ -1,10 +1,10 @@
 # snehexcell
-Hello world, this is my profile
+Hello!! Welcome to My Portfolio🎉
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Sneha Kumari and i'm a frontend developer.</p>
+<p align="left">My name is Sneha Kumari and i'm a passionate frontend developer who likes to learn new tech and build projects.</p>
 
 ###
 
@@ -12,7 +12,7 @@ Hello world, this is my profile
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning nodejs and dsa with java.<br>🎯 Goals: To become millionaire<br>🎲 And i love to sing and explore new tech things</p>
+<p align="left">🔭 I’m currently working on personal portfolio.<br>📚 I'm currently learning Reactjs and dsa with java.<br>💬 Ask me about Javascript, React, Web Development<br>📫 How to reach me snehabaranwal5613@gmail.com<br>⚡ Fun fact about me  I might seem quiet at first, but once we're comfortable, our conversations become unstoppable!</p>
 
 ###
 
