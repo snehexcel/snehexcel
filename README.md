@@ -12,7 +12,7 @@ Hello!! Welcome to My Portfolio🎉
 
 ###
 
-<p align="left">🔭 I’m currently working on personal portfolio.<br>📚 I'm currently learning Reactjs and dsa with java.<br>💬 Ask me about Javascript, React, Web Development<br>📫 How to reach me snehabaranwal5613@gmail.com<br>⚡ Fun fact about me  I might seem quiet at first, but once we're comfortable, our conversations become unstoppable!</p>
+<p align="left">🔭 I’m currently working on personal portfolio.<br>📚 I'm currently learning Reactjs and dsa with java.<br>💬 Ask me about Javascript, React, Web Development<br>📫 How to reach me -->snehabaranwal5613@gmail.com<br>⚡ Fun fact about me  I might seem quiet at first, but once we're comfortable, our conversations become unstoppable!</p>
 
 ###
 
