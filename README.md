@@ -1,5 +1,5 @@
 ### Hi there, I'm Sneha 👋
-- 🌱 A software developer enthusiast currently learning full-stack development and blockchain technologies.
+- 🌱 A passionate software developer currently learning full-stack development and blockchain technologies.
 - 🔭 Seeking internship opportunities to apply and expand my skills.
 - 🤝 Open to collaborating on innovative projects in blockchain or frontend development.
 - 📫 How to reach me: [snehabaranwal5613@gmail.com] | [LinkedIn Profile](https://www.linkedin.com/in/sneha-kumari-goyal-9a0071252)
