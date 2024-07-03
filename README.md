@@ -1,4 +1,4 @@
-### Hi there, I'm Sneha 👋
+### Hello, I'm Sneha 👋
 - 🌱 A passionate software developer currently learning full-stack development and blockchain technologies.
 - 🔭 Seeking internship opportunities to apply and expand my skills.
 - 🤝 Open to collaborating on innovative projects in blockchain or frontend development.
