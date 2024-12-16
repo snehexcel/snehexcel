@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on open source platform.
 
-- 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀
+- 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀 I also want to share my own CSE undergrad graduation journey, highlighting the challenges, growth, and lessons along the way.
   
 - 📫 How to reach me snehabaranwal5613@gmail.com
 
