@@ -13,8 +13,8 @@
 
 - 👯 I’m looking to collaborate on open source platform.
 
-- 💻 I'm deeply passionate about sharing my knowledge and insights with the community through podcasts and interview experiences on LinkedIn & YouTube. 🚀
-
+- 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀
+  
 - 📫 How to reach me snehabaranwal5613@gmail.com
 
 - 💖 5k+ views, 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
