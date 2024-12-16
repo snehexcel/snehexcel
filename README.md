@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on open source platform.
 
-- 📫 How to reach me snehabaranwal5613@gmail.com
-
 - 💻 I'm deeply passionate about sharing my knowledge and insights with the community through podcasts and interview experiences on LinkedIn & YouTube. 🚀
+
+- 📫 How to reach me snehabaranwal5613@gmail.com
 
 💖 5k+ views, 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
 
