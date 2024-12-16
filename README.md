@@ -17,7 +17,7 @@
 
 - 📫 How to reach me snehabaranwal5613@gmail.com
 
-💖 5k+ views, 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
+- 💖 5k+ views, 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
