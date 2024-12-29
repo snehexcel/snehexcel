@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 
-- 🔭 I’m currently working on React.js, Node.js, MongoDb, MySQL, Next.js, Miro.
+- 🔭 I’m currently working on React.js, Node.js, MongoDb, MySQL, Next.js.
 
 - 🌱 I’m currently open for entry level internship or jobs in Frontend/ Backend/ Fullstack role.
 
@@ -17,7 +17,7 @@
   
 - 📫 How to reach me snehabaranwal5613@gmail.com
 
-- 💖 5k+ views, 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
+- 💖 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
