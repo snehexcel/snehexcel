@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 
-- 🔭 I’m currently working on React.js, Node.js, MongoDb, MySQL, Next.js.
+- 🔭 I’m currently working on React.js, Next.js, Redux toolkit.
 
-- 🌱 I’m currently open for entry level internship or jobs in Frontend/ Backend/ Fullstack role.
+- 🌱 I’m currently open for entry level internship or jobs in Frontend/ Backend/ Full-stack role.
 
 - 👯 I’m looking to collaborate on open source platform.
 
