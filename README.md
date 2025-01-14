@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on React.js, Next.js, Redux toolkit.
 - 👨‍💻 Open for entry level internship or jobs in Frontend/ Backend/ Full-stack role.
 - 👯 Looking to collaborate on open source platform.
-- 🌱 I’m currently learning <h3> Backend development, DSA and CS fundamentals </h3>
+- 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals </b>
 - 💬 Ask me about DSA , CP , CS Fundamentals , Web Development
 - 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀 I also want to share my own CSE undergrad graduation journey, highlighting the challenges, growth, and lessons along the way.
 - 📫 How to reach me snehabaranwal5613@gmail.com
