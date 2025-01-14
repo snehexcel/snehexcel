@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 
 - 🔭 I’m currently working on <b> React.js, Next.js, Redux toolkit.</b>
-- 👨‍💻 Open for Entry level internship or jobs in <b> Frontend / Backend / Full-stack role. <b/>
+- 👨‍💻 Open for Entry level internship or jobs in <b> Frontend / Backend / Full-stack role. </b>
 - 👯 Looking to collaborate on open source platform.
-- 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals </b>
-- 💬 Ask me about <b> DSA , CP , CS Fundamentals , Web Development </b>
+- 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals</b>
+- 💬 Ask me about <b> DSA , CP , CS Fundamentals , Web Development</b>
 - 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀 I also want to share my own CSE undergrad graduation journey, highlighting the challenges, growth, and lessons along the way.
 - 📫 How to reach me snehabaranwal5613@gmail.com
 - 💖 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
