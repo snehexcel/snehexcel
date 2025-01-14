@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 
 - 🔭 I’m currently working on <b> React.js, Next.js, Redux toolkit.</b>
-- 👨‍💻 Open for Entry level internship or jobs in <b> Frontend / Backend / Full-stack role. </b>
+- 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
 - 👯 Looking to collaborate on open source platform.
 - 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals</b>
 - 💬 Ask me about <b> DSA , CP , CS Fundamentals , Web Development</b>
