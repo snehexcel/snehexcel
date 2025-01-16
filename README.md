@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
 <h3 align="center">A passionate Full-Stack Developer. Finding great interest in Web dev, Love DSA problem solving and AI/ML enthusiast.</h3>
 
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)&label=Profile%20views&color=0e75b6&style=flat" alt="snehexcel" /> </p>
+<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]&label=Profile%20views&color=0e75b6&style=flat" alt="snehexcel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehexcel" alt="snehexcel" /></a> </p>
 
