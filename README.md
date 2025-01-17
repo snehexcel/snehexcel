@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">A passionate Full-Stack Developer. Finding great interest in Web dev, Love DSA problem solving and AI/ML enthusiast.</h3>
+<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, with a keen interest in Web Dev, DSA problem solving, and AI/ML.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehexcel" alt="snehexcel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 
-- 🔭 I’m currently working on <b> React.js, Next.js, Redux toolkit.</b>
+- 🔭 I’m currently working on my Personal Projects which are mainly based on Mobile and Web Dev using <b> React.js, Next.js, Redux toolkit.</b>
 - 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
 - 👯 Looking to collaborate on open source platform.
 - 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals</b>
@@ -14,7 +14,7 @@
 - 📫 How to reach me snehabaranwal5613@gmail.com
 - 💖 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
 <a href="https://twitter.com/baransneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baransneha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sneha-k-9a0071252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-k-9a0071252" height="30" width="40" /></a>
