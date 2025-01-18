@@ -12,7 +12,7 @@
 - 💬 Ask me about <b> DSA , CP , CS Fundamentals , Web Development</b>
 - 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews, and sharing those valuable conversations with the community on LinkedIn & YouTube. 🚀 I also want to share my own CSE undergrad graduation journey, highlighting the challenges, growth, and lessons along the way.
 - 📫 How to reach me snehabaranwal5613@gmail.com
-- 💖 4K+ followers on LinkedIn, 200K+ views on Youtube🎙️
+- 💖 5K+ followers on LinkedIn, 300K+ views on Youtube🎙️
 
 <h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
