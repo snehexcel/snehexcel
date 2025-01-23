@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working on my Personal Projects which are mainly based on Mobile and Web Dev using <b> React.js</b>
 - 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
-- 👯 Looking to collaborate on open source platform.
-- 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals</b>
-- 💬 Ask me about <b> DSA , CP , CS Fundamentals , Web Development</b>
-- 💻 I'm deeply passionate about listening to others' insights and experiences, engaging in podcasts and interviews. I am always open to learn about new and upcoming technologies. Meeting new and amazing people who share same interest as me is something I dig for. Love to do projects to solve out real world problem wiht my skills.
+- 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals</b>
+- 💬 Ask me about <b> HTML, CSS, JS, React</b>
+- 💻 I'm very passionate about listening to others' experiences, engaging in podcasts and interviews. I am always open to learn about new and upcoming technologies. Meeting new and amazing people who share same interest as me is something I dig for. Love to do projects to solve out real world problem wiht my skills.
 - 📫 How to reach me snehabaranwal5613@gmail.com
 - 💖 5K+ followers on LinkedIn, 300K+ views on Youtube🎙️
 
