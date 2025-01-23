@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, with a keen interest in Web Dev, DSA problem solving, and AI/ML enthusiast.</h3>
+<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, with a keen interest in Web Dev, DSA, and AI/ML enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehexcel" alt="snehexcel" /></a> </p>
 
