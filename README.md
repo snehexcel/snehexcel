@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 <p align="right"> <a href="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" target="blank"> <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder"/></a></p>
 
-- 🔭 I’m currently working on my Personal Projects which are mainly based on Mobile and Web Dev using <b> React.js, Next.js, Redux toolkit.</b>
+- 🔭 I’m currently working on my Personal Projects which are mainly based on Mobile and Web Dev using <b> React.js</b>
 - 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
 - 👯 Looking to collaborate on open source platform.
 - 🌱 I’m currently learning <b> Backend development, DSA and CS fundamentals</b>
