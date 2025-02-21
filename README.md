@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring Web 3, Ai</b>
 - 💬 Ask me about <b> HTML, CSS, JS, React</b>
 - 💻 My passion lies in exploring the world of technology through podcasts, interviews, and hands-on projects.  I'm always seeking new opportunities to learn and connect with inspiring people who share my curiosity.
-- 📫 How to reach me snehabaranwal5613@gmail.com
+- 📫 How to reach me : snehabaranwal5613@gmail.com
 - 💖 5K+ followers on LinkedIn, 300K+ views on Youtube🎙️
 
 <h3 align="left">Connect with me on💁‍♀️-</h3>
