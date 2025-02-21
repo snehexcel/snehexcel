@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my Personal Projects.
 - 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
-- 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring web 3, Ai</b>
+- 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring Web 3, Ai</b>
 - 💬 Ask me about <b> HTML, CSS, JS, React</b>
 - 💻 I'm very passionate about listening to podcasts and interviews and always open to learn about new upcoming technologies. Meeting new and amazing people who share same interest as me is something I dig for. Love to do projects to solve out real world problem wiht my skills.
 - 📫 How to reach me snehabaranwal5613@gmail.com
