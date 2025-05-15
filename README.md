@@ -8,7 +8,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder" width="200" height="auto" style="max-width:200px;"/>
 </p>
 
-- 🔭 I’m currently working on my Personal Projects.(My portfolio - https://strong-panda-6f5bb0.netlify.app/)
+- 🔭 I’m currently working on my Personal Projects.
+-  My portfolio - https://strong-panda-6f5bb0.netlify.app/
 - 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
 - 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring AI/ML, Computer Vision, Web 3</b>
 - 💬 Ask me about <b> JS, React, Python</b>
