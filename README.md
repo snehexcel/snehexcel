@@ -10,12 +10,12 @@
 
 - 🔭 I’m currently working on my Personal Projects.
 -  My portfolio - https://strong-panda-6f5bb0.netlify.app/
-- 👨‍💻 Open for Entry level internship or job in <b> Frontend / Backend / Full-stack role. </b>
-- 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring AI/ML, Computer Vision, Web 3</b>
-- 💬 Ask me about <b> JS, React, Python</b>
+- 👨‍💻 Open for Job in <b> Frontend / Backend / Full-stack role, Ai/ml Engineer, Data Science, Analyst role, Researcher domain. </b>
+- 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring AI/ML, Computer Vision, RAG </b>
+- 💬 Ask me about <b> React, Python, NLP, LLM </b>
 - 💻 My passion lies in exploring the world of technology through podcasts, interviews, and hands-on projects.  I'm always seeking new opportunities to learn and connect with inspiring people who share my curiosity.
 - 📫 How to reach me : snehabaranwal5613@gmail.com
-- 💖 5K+ followers on LinkedIn, 300K+ views on Youtube🎙️
+- 💖 6K+ followers on LinkedIn, 400K+ views on Youtube🎙️
 
 <h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
