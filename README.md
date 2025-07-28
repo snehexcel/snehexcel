@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, with a keen interest in Web Dev, DSA.</h3>
+<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, also having keen interest in Nlp, LLM and DSA.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehexcel" alt="snehexcel" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my Personal Projects.
 -  My portfolio - https://strong-panda-6f5bb0.netlify.app/
-- 👨‍💻 Open for Job in <b> Frontend / Backend / Full-stack role, Ai/ml Engineer, Data Science, Analyst role, Researcher domain. </b>
+- 👨‍💻 Open for Job in <b> Frontend / Backend / Full-stack, Ai/ml Engineer, Data Science, Analyst role, Researcher domain. </b>
 - 🌱 I’m currently learning <b> MERN, DSA and CS fundamentals, also exploring AI/ML, Computer Vision, RAG </b>
 - 💬 Ask me about <b> React, Python, NLP, LLM </b>
 - 💻 My passion lies in exploring the world of technology through podcasts, interviews, and hands-on projects.  I'm always seeking new opportunities to learn and connect with inspiring people who share my curiosity.
