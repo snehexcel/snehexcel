@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder" width="200" height="auto" style="max-width:200px;"/>
 </p>
-- 👨‍💻 Open to roles across Frontend, Backend, Full-Stack Development, AI/ML, Data Science, Data Analytics, and Research. 
+- 👨‍💻 Open to roles across Frontend, Backend, Full-Stack Development, AI/ML, Data Science, Data Analytics, and Research Assistant. 
 <h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
 <a href="https://twitter.com/baransneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baransneha" height="30" width="40" /></a>
