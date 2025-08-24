@@ -5,11 +5,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder" width="200" height="auto" style="max-width:200px;"/>
 </p>
 - 👨‍💻 Open for Job in <b> Frontend / Backend / Full-stack, Ai/ml Engineer, Data Science, Analyst role, Researcher domain. 
-- 💻 My passion lies in exploring the world of technology through podcasts, interviews, and hands-on projects.  I'm always seeking new opportunities to learn and connect with inspiring people who share my curiosity.
-- 📫 How to reach me : snehabaranwal5613@gmail.com
-- 💖 6K+ followers on LinkedIn, 400K+ views on Youtube🎙️
-
-
 <h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
 <a href="https://twitter.com/baransneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baransneha" height="30" width="40" /></a>
