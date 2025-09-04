@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, Data Science 7 Analytics, also having keen interest in Nlp, LLM and DSA.</h3>
+<h3 align="center">Passionate Full-Stack Developer, aspiring Software Engineer, Data Science & Analytics, also having keen interest in Nlp, LLM and DSA.</h3>
 <p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder" width="200" height="auto" style="max-width:200px;"/>
