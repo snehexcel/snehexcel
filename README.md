@@ -15,7 +15,8 @@ I enjoy solving real-world problems through backend engineering and Applied AI, 
 • AWS & Docker
 
 • System Design
-📚 Currently Learning
+
+<h3> 📚 Currently Learning</h3>
 
 • Recommendation Systems
 
