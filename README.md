@@ -1,11 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center"> Software Engineer passionate about building intelligent systems.
-I enjoy designing scalable backend applications while exploring Applied AI, LLMs, NLP, and recommendation systems through real-world projects.</h3>
-<p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="baransneha" /></a> </p>
+<h3 align="center"> Software Engineer passionate about building scalable software and intelligent systems.
+
+I enjoy solving real-world problems through backend engineering and Applied AI, with a growing interest in LLMs, NLP, recommendation systems, and production-ready AI applications.</h3>
+<p align="left"> <a href="https://twitter.com/baransneha" target="blank"><img src="https://img.shields.io/twitter/follow/baransneha?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder" width="200" height="auto" style="max-width:200px;"/>
 </p>
-- 👨‍💻 Open to roles across SDE, Frontend, Backend, Full-Stack Development, AI/ML, Data Science, Data Analytics, and Research Assistant. 
+- 👨‍💻 Current Focus
+
+• Backend Engineering (Java & Spring Boot)
+
+• Applied AI & LLMs
+
+• AWS & Docker
+
+• System Design
+📚 Currently Learning
+
+• Recommendation Systems
+
+• Ranking Models
+
+• LLM Evaluation
+
+• Distributed Systems
+
+💡 Learning by building. Improving through experimentation.
+
 <h3 align="left">Connect with me on💁‍♀️-</h3>
 <p align="left">
 <a href="https://twitter.com/baransneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baransneha" height="30" width="40" /></a>
