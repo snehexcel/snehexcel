@@ -5,7 +5,7 @@ Software Engineer who enjoys building software and understanding how intelligent
 </p>
 
 <p align="center">
-I enjoy solving real-world problems through backend engineering and hands-on AI projects. Recently, I've been working with Java & Spring Boot while learning how retrieval, recommendation, and language models come together in production systems.
+I love solving real-world problems through backend engineering and hands-on AI projects. Recently, I've been working with Java & Spring Boot while learning how retrieval, recommendation, and language models come together in production systems.
 </p>
 
 <p align="center">
