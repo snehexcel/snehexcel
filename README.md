@@ -16,9 +16,9 @@ I love solving real-world problems through backend engineering and hands-on AI p
 
 ## 🚀 What I'm Working On
 
-- Backend Engineering with Java & Spring Boot (MVC)
 - AI-powered applications using LLMs
 - REST APIs & scalable backend systems
+- Backend Engineering with Java & Spring Boot (MVC)
 - AWS & Docker
 - System Design
 
