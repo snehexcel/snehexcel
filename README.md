@@ -68,23 +68,6 @@ I love solving real-world problems through backend engineering and hands-on AI p
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehexcel&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehexcel&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehexcel&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 ## 🤝 Connect With Me
 
